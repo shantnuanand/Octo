@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import About from "./components/About";
 import Cart from "./components/Cart";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import NoPage from "./components/NoPage";
